@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppPrueba</string>
+    <string name="introduce_tu_nombre">Introduce tu nombre\n</string>
+    <string name="mensaje_boton">PULSAME\n</string>
+</resources>
